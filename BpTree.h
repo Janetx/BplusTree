@@ -1,7 +1,4 @@
-//cmpt454 programming project
-//Jia Yun Xuan
-//301230410
-//janetx@sfu.ca
+
 
 #include <iostream>
 #include <string>
